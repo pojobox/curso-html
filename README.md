@@ -13,6 +13,23 @@ El curso está estructurado en clases, cada una diseñada para cubrir conceptos 
   - Configuración inicial con extensiones útiles.
   - Creación de tu primer archivo HTML.
   - Introducción a la estructura básica de HTML.
+    
+- **Clase 03: ¿Qué es HTML y cómo funciona?**
+  - ¿Qué es HTML?
+    - Definición y función de HTML en el desarrollo web.
+    - Significado de las siglas: HyperText Markup Language.
+  - Importancia de HTML
+    - Por qué HTML es el pilar fundamental de cualquier página web.
+    - Cómo los navegadores interpretan el código HTML.
+  - Estructura básica de un documento HTML
+    - Elementos esenciales que componen un archivo HTML.
+    - Introducción a las etiquetas y su uso.
+  - Ejemplo práctico
+    - Creación de una página HTML simple que incluye:
+      - ✅ Un encabezado `<h1>`.
+      - ✅ Un párrafo `<p>`.
+      - ✅ Etiquetas meta esenciales como UTF-8 y viewport.
+      - ✅ Un toque de estilo para personalizar nuestro contenido.
 
 *(A medida que avancemos en el curso, se añadirán más clases con ejemplos y ejercicios prácticos.)*
 
