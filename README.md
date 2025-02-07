@@ -30,6 +30,21 @@ El curso está estructurado en clases, cada una diseñada para cubrir conceptos 
       - ✅ Un párrafo `<p>`.
       - ✅ Etiquetas meta esenciales como UTF-8 y viewport.
       - ✅ Un toque de estilo para personalizar nuestro contenido.
+        
+- **Clase 04: Estructura Básica de una página web**
+  - Etiquetas Básicas Meta
+    - Qué son, para qué sirven y cómo utilizarlas para mejorar el SEO y la configuración de tu página.
+  - Etiquetas de Contenido
+    - h1 a h6
+    - p
+  - Lorem Ipsum
+    - Como usarlo y para que sirve
+  - Ejemplo práctico
+    - Creación de una página HTML simple que incluye:
+      - ✅ Etiquetas `<h1>` a `<h6>`.
+      - ✅ Un párrafo `<p>`.
+      - ✅ Etiquetas meta básicas.
+      - ✅ Uso del lorem ipsum.
 
 *(A medida que avancemos en el curso, se añadirán más clases con ejemplos y ejercicios prácticos.)*
 
