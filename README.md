@@ -45,6 +45,18 @@ El curso está estructurado en clases, cada una diseñada para cubrir conceptos 
       - ✅ Un párrafo `<p>`.
       - ✅ Etiquetas meta básicas.
       - ✅ Uso del lorem ipsum.
+        
+- **Clase 05: Etiquetas de Formato y Creación de Enlaces**
+  - Etiquetas De Formato
+    - Qué son, para qué sirven y cómo utilizarlas para mejorar el SEO.
+    - Algunos atributos comunes.
+  - Creación de Enlaces
+    - Qué son, para qué sirven y cómo utilizarlas.
+    - Algunos atributos comunes.
+  - Ejemplo práctico
+    - Creación de una página HTML simple que incluye:
+      - ✅ Etiquetas `<b>`, `<strong>`, `<i>`, `<em>` `<mark>`, `<del>`, `<small>`.
+      - ✅ Creación de enlaces `<a>` y algunos atributos como target, title, accesskey.
 
 *(A medida que avancemos en el curso, se añadirán más clases con ejemplos y ejercicios prácticos.)*
 
