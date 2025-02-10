@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Etiquetas Multimedia</title>
+</head>
+
+<body>
+    <h1>Ejemplo de Imagenes, Audio y Video</h1>
+
+    <!-- Imagenes -->
+    <h2>Ejemplo de imagenes</h2>
+    <!--Imagen importada desde la carpeta local-->
+    <p>Imagen importada desde la carpeta local</p>
+    <img src="/assets/image.jpg" alt="Imagen de ejemplo" width="300" height="200">
+
+    <!--Imagen importada desde una web-->
+    <p>Imagen importada desde una web</p>
+    <img src="https://picsum.photos/300/200" alt="imagen cargada desde url" width="300" height="200">
+
+    <!--Video-->
+    <h2>Ejemplo de videos</h2>
+
+    <!--video importado desde la carpeta local-->
+    <p>Video importado desde la carpeta local</p>
+    <video controls autoplay width="400" height="300">
+        <source src="/assets/Dentro de un bosque mágico 4K.mp4" type="video/mp4">
+        Tu navegador no soporta el video
+    </video>
+
+    <!--video importado desde una web-->
+    <p>Video importado desde una web</p>
+    <video controls muted autoplay width="400" height="300">
+        <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+        Tu navegador no soporta el video
+    </video>
+
+    <!--Audio-->
+    <!--Audio importado desde la carpeta local-->
+    <p>Audio importado desde la carpeta local</p>
+    <audio controls>
+        <source src="/assets/No Filter - NEFFEX.mp3" type="audio/mpeg">
+        Tu navegador no soporta el audio
+    </audio>
+
+    <!--Audio importado desde una web-->
+    <p>Audio importado desde una web</p>
+    <audio controls loop>
+        <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg">
+        Tu navegador no soporta el audio
+    </audio>
+
+    <!--Etiqueta iframe-->
+    <p>Video importado de youtube con iframe</p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/gqYGj-fDD_I?si=FPRhgBYdNtHwhgkI"
+        title="YouTube video player" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</body>
+
+</html>
