@@ -57,6 +57,17 @@ El curso está estructurado en clases, cada una diseñada para cubrir conceptos 
     - Creación de una página HTML simple que incluye:
       - ✅ Etiquetas `<b>`, `<strong>`, `<i>`, `<em>` `<mark>`, `<del>`, `<small>`.
       - ✅ Creación de enlaces `<a>` y algunos atributos como target, title, accesskey.
+     
+- **Clase 06: Imágenes, Multimedia e Iframes**  
+  - **Imágenes**: Inserción con `<img>` y atributos como `src`, `alt`, `width`, `height`.  
+  - **Audio**: Reproducción con `<audio>`, usando `controls`, `autoplay`, y `<source>`.  
+  - **Video**: Inserción con `<video>`, usando `controls`, `poster`, y `<source>`.  
+  - **Iframe**: Incrustación de contenido externo con `<iframe>` y atributos como `src` y `allowfullscreen`.  
+  - **Ejemplo práctico**: Creación de una página con:
+    - ✅ Dos imagenes.  
+    - ✅ Audio con controles.  
+    - ✅ Video con controles.
+    - ✅ Etiquetas de contenido (opcional).
 
 *(A medida que avancemos en el curso, se añadirán más clases con ejemplos y ejercicios prácticos.)*
 
