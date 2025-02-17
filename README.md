@@ -68,6 +68,27 @@ El curso está estructurado en clases, cada una diseñada para cubrir conceptos 
     - ✅ Audio con controles.  
     - ✅ Video con controles.
     - ✅ Etiquetas de contenido (opcional).
+   
+- **Clase 07: Listas y Tablas**  
+  - **Listas**:  
+    - Ordenadas (`<ol>`): Para elementos con un orden específico.  
+    - No ordenadas (`<ul>`): Para elementos sin un orden específico.  
+  - **Tablas**:  
+    - Estructura básica con `<table>`, `<tr>`, `<th>`, `<td>`.  
+    - Uso de `colspan` para fusionar columnas.  
+    - Uso de `rowspan` para fusionar filas.  
+    - Estilización básica para mejorar la apariencia.  
+  - **Ejemplo práctico**:  
+    - ✅ Crear un menú de restaurante con:  
+      - ✅ Una lista de categorías.  
+      - ✅ Una tabla para mostrar platos, precios y tamaños.  
+      - ✅ Uso de `colspan` y `rowspan` para datos especiales.  
+    - ✅ Aplicar estilos básicos a la tabla.  
+  - **Tarea**:  
+    - Crear una lista de contactos:  
+      - ✅ Tabla con nombre, número de teléfono y correo electrónico.  
+      - ✅ Lista organizada alfabéticamente.  
+
 
 *(A medida que avancemos en el curso, se añadirán más clases con ejemplos y ejercicios prácticos.)*
 
