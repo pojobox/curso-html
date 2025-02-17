@@ -57,6 +57,38 @@ El curso está estructurado en clases, cada una diseñada para cubrir conceptos 
     - Creación de una página HTML simple que incluye:
       - ✅ Etiquetas `<b>`, `<strong>`, `<i>`, `<em>` `<mark>`, `<del>`, `<small>`.
       - ✅ Creación de enlaces `<a>` y algunos atributos como target, title, accesskey.
+     
+- **Clase 06: Imágenes, Multimedia e Iframes**  
+  - **Imágenes**: Inserción con `<img>` y atributos como `src`, `alt`, `width`, `height`.  
+  - **Audio**: Reproducción con `<audio>`, usando `controls`, `autoplay`, y `<source>`.  
+  - **Video**: Inserción con `<video>`, usando `controls`, `poster`, y `<source>`.  
+  - **Iframe**: Incrustación de contenido externo con `<iframe>` y atributos como `src` y `allowfullscreen`.  
+  - **Ejemplo práctico**: Creación de una página con:
+    - ✅ Dos imagenes.  
+    - ✅ Audio con controles.  
+    - ✅ Video con controles.
+    - ✅ Etiquetas de contenido (opcional).
+   
+- **Clase 07: Listas y Tablas**  
+  - **Listas**:  
+    - Ordenadas (`<ol>`): Para elementos con un orden específico.  
+    - No ordenadas (`<ul>`): Para elementos sin un orden específico.  
+  - **Tablas**:  
+    - Estructura básica con `<table>`, `<tr>`, `<th>`, `<td>`.  
+    - Uso de `colspan` para fusionar columnas.  
+    - Uso de `rowspan` para fusionar filas.  
+    - Estilización básica para mejorar la apariencia.  
+  - **Ejemplo práctico**:  
+    - ✅ Crear un menú de restaurante con:  
+      - ✅ Una lista de categorías.  
+      - ✅ Una tabla para mostrar platos, precios y tamaños.  
+      - ✅ Uso de `colspan` y `rowspan` para datos especiales.  
+    - ✅ Aplicar estilos básicos a la tabla.  
+  - **Tarea**:  
+    - Crear una lista de contactos:  
+      - ✅ Tabla con nombre, número de teléfono y correo electrónico.  
+      - ✅ Lista organizada alfabéticamente.  
+
 
 *(A medida que avancemos en el curso, se añadirán más clases con ejemplos y ejercicios prácticos.)*
 
