@@ -87,14 +87,46 @@ El curso está estructurado en clases, cada una diseñada para cubrir conceptos 
   - **Tarea**:  
     - Crear una lista de contactos:  
       - ✅ Tabla con nombre, número de teléfono y correo electrónico.  
-      - ✅ Lista organizada alfabéticamente.  
-
+      - ✅ Lista organizada alfabéticamente.
+        
+- **Clase 08 (Práctica): Formulario de Reserva**  
+  - **Proyecto práctico**:  
+    - ✅ Crear un formulario de reserva para el restaurante.  
+  - **Ejemplo práctico**:  
+    - ✅ Campo nombre con `<input type="text">`.  
+    - ✅ Fecha de reserva con `<input type="date">`.  
+    - ✅ Cantidad de personas con `<input type="number">`.  
+    - ✅ Botón de envío con `<input type="submit">`.  
+    - ✅ Uso correcto de `<label>` para mejorar accesibilidad.
+      
+- **Clase 09: Etiquetas Semánticas**  
+  - **Introducción a HTML semántico**:  
+    - Importancia de usar las etiquetas semánticas.
+  - **Etiquetas principales**:  
+    - `<header>`: Encabezado de la página.  
+    - `<main>`: Contenido principal.  
+    - `<section>`: Agrupación temática de contenido.  
+    - `<footer>`: Pie de página.  
+  - **Otras etiquetas mencionadas**:  
+    - `<nav>`: Navegación.  
+    - `<article>`: Contenido independiente.  
+    - `<figure>`: Contenido ilustrativo.  
+    - `<address>`: Información de contacto.  
+  - **Aplicación práctica**:  
+    - ✅ Reestructurar el menú del restaurante usando etiquetas semánticas.  
+    - ✅ Uso básico de entidades HTML como `&copy;`.  
 
 *(A medida que avancemos en el curso, se añadirán más clases con ejemplos y ejercicios prácticos.)*
 
 ### ✏ Clases Teóricas (Sin Código)
 - **Clase 01: Bienvenida al Curso**  
   Introducción al curso, objetivos, herramientas necesarias y estructura general.
+
+- **Clase 08: Formularios**  
+  Introducción a los formularios en HTML, su estructura y funcionamiento básico.
+  Uso de la etiqueta form, campos de entrada con input y asociación con label.
+  Tipos de entrada más utilizados: texto, contraseña, correo, número y fecha.
+  Botones de envío y validaciones básicas con atributos como required, maxlength y pattern.
 
 *(Estas clases no requieren código, pero se explican detalladamente en los videos.)*
 
