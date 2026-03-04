@@ -114,7 +114,34 @@ El curso está estructurado en clases, cada una diseñada para cubrir conceptos 
     - `<address>`: Información de contacto.  
   - **Aplicación práctica**:  
     - ✅ Reestructurar el menú del restaurante usando etiquetas semánticas.  
-    - ✅ Uso básico de entidades HTML como `&copy;`.  
+    - ✅ Uso básico de entidades HTML como `&copy;`.
+      
+  - **Clase 10: Atributos Globales y Personalizados**  
+  - **Atributos en HTML**: Qué son y cómo modifican el comportamiento de las etiquetas.  
+  - **Atributos globales**: Uso de `class`, `id`, `style` y `data-*` para identificar y personalizar elementos.  
+  - **Atributos personalizados**: Creación de atributos como `data-precio` y `data-categoria` para almacenar información adicional.  
+  - **Uso práctico con JavaScript**: Acceso a `data-*` mediante la propiedad `dataset`.  
+  - **Ejemplo práctico**: Creación de una página con:  
+    - ✅ Uso de `class` e `id`.  
+    - ✅ Implementación de `data-*` en los platos.  
+
+- **Clase 11: Integración con CSS**  
+  - **Diferencias entre HTML y CSS**: HTML define la estructura y CSS la presentación visual.  
+  - **Formas de integrar CSS**: Uso de `style` en línea, bloque `<style>` interno y archivo externo con `<link>`.  
+  - **Enlace de CSS externo**: Conexión de `styles.css` dentro del `<head>` usando `<link rel="stylesheet">`.  
+  - **Buenas prácticas**: Separación de estructura y diseño para mantener el código organizado.  
+  - **Ejemplo práctico**: Creación de una página con:  
+    - ✅ Archivo `styles.css` enlazado correctamente.  
+    - ✅ Cambio de colores y tipografías.  
+    - ✅ Mejora visual del proyecto restaurante.  
+
+- **Clase 12: Introducción a la Accesibilidad**  
+  - **Concepto de accesibilidad web**: Importancia de crear sitios inclusivos y utilizables para todas las personas.  
+  - **Atributos de accesibilidad**: Implementación de `aria-label` y `tabindex` para mejorar la experiencia con lectores de pantalla.  
+  - **Ejemplo práctico**: Creación de una página con:  
+    - ✅ Uso de `aria-label` en botones y enlaces.  
+    - ✅ Configuración de `tabindex` para navegación accesible.  
+
 
 *(A medida que avancemos en el curso, se añadirán más clases con ejemplos y ejercicios prácticos.)*
 
